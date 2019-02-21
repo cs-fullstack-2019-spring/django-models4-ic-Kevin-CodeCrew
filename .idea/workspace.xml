@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ea69bde-aadf-4ccc-b7e4-7612f2f0fb9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/django_fk_lecture_project/django_fk_lecture_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_fk_lecture_project/django_fk_lecture_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fk_lecture_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_fk_lecture_project/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="228">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -25,17 +26,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fk_lecture_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="140">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -51,9 +52,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py" />
         <option value="$PROJECT_DIR$/django_fk_lecture_project/django_fk_lecture_project/settings.py" />
         <option value="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/admin.py" />
+        <option value="$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py" />
       </list>
     </option>
   </component>
@@ -132,18 +133,18 @@
       <option name="presentableId" value="Default" />
       <updated>1550774742377</updated>
       <workItem from="1550774743748" duration="28000" />
-      <workItem from="1550775069100" duration="3030000" />
+      <workItem from="1550775069100" duration="3863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3058000" />
+    <option name="totallyTimeSpent" value="3891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1280" height="644" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20178282" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20178282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -160,7 +161,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32815534" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23883495" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3669903" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32815534" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -178,27 +179,27 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fk_lecture_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="140">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_fk_lecture_project/django_fx_lecture_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
